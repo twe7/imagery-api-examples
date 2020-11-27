@@ -1,3 +1,4 @@
+# This example shows, how to retrieve a complete list of images available in the catalog
 import requests
 import json
 
