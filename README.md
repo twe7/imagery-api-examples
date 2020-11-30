@@ -5,7 +5,7 @@ A set of examples that demonstrate how to work with the Tailwind API.
 Examples:
 - [Listing images](./list-images.py)
 - [Purchasing an image](./purchase-image.py)
-- [Download Image](./download-image.py)
+- [Download image](./download-image.py)
 
 All examples are interactive and can be run via Python. Before you can integrate with the API and run the examples, you need to obtain an API key. 
 
