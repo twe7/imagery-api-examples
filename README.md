@@ -20,3 +20,4 @@ To run an example, just use the Python CLI:
 python3 list-images.py
 ```
 
+> Don't forget to set the correct API key when running the example.
